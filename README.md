@@ -70,6 +70,9 @@ I know my calendar looks like a game of Tetris that’s gone horribly awry. I pr
 2. Chime me or email me. I have notification message OCD, so I’ll usually respond pretty quickly. Even if you just want to talk, message me and I’ll set up some time. 
 3. Grab a spot on my calendar. If I’ve got an interview (very likely) or something else I can’t move, I’ll work with you to reschedule. Often though, I’ve got other meetings that can move around, so I can find a spot. 
 
+## If I need something from you
+
+I may occasionally reach out on nights or weekends. Unless I include the word _urgent_ in my request, it can wait until the next business day. I just tend to work asynchronously sometimes and don't want to forget.
 
 ## Caveat
 
