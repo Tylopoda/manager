@@ -6,7 +6,7 @@ Whether we're just meeting, or getting to know each other better, I'm looking fo
 
 I like the word leader instead of manager. Manager makes me think of Office Space and you'll notice I purposefully never carry around my coffee mug. If it ever feels like I'm asking you to write TPS reports (do busy work), let me know right away. I'm either not sharing enough context or didn't think deeply enough.
 
-TLDR; I see my job as making your daily work easier, happier, and more productive. I am here to remove impediments to you so we can deliver the best experience to our users possible. I joined Audible in 2011 specifically to work on something my friends and family use and love (in addition to millions of other customers) and a good day for me is when I feel tangibly connected to our users.
+TLDR; I see my job as making your daily work easier, happier, and more productive. I am here to remove impediments to you so we can deliver the best experience to our users possible. I joined Audible in 2011 from the financial industry specifically to work on something my friends and family use and love (in addition to millions of other customers) and a good day for me is when I feel tangibly connected to our users. I transfered to Amazon knowing the obsession with our customers would still be there.
 
 In short, my job is to make our team successful. 
 
@@ -93,7 +93,7 @@ I also like to share articles I find interesting there as well as on Twitter htt
 
 I joined Audible in 2011 as a web developer when our entire tech team was much smaller. Before that, I worked in the financial industry on backend order management systems in C++. We even rewrote the C++ stl data structures to speed them up by a few microseconds. I also did a variety of test automation and framework creation, Python, Java, and C# coding, and owned the communication layer between services (they weren’t called micro services then) and the language bindings for client teams there. 
 
-At Audible, I’ve worked on the web team mostly around ordering, library, and the cloud player (all the terrible JS that still remains there is probably mine). I started managing in 2014. In 2016 I moved to services & apis. 
+At Audible, I’ve worked on the web team mostly around ordering, library, and the cloud player (all the terrible JS that still remains there is probably mine). I started managing in 2014. In 2016 I moved to services & apis and in 2018 began managing a multi-surface development team owning iOS, Android, Web, and Services for Audible's player experience. In 2019 I decided to take a new opportunity at Amazon managing a development team responsible for forecasting in Supply Chain Optimization Technology.
 
 At home, I like to spend time with my family comprised of my wife, dog (a 55 pound beagle mix rescue), and twin boys. I like to run most mornings and do a fair amount of half marathon and full marathon running. I also brew my own beer which varies wildly in drinkability. I also like to write and do so regularly for my personal blog about parenting, technology, and running. 
 
