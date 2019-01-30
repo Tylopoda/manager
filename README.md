@@ -6,13 +6,15 @@ Whether we're just meeting, or getting to know each other better, I'm looking fo
 
 I like the word leader instead of manager. Manager makes me think of Office Space and you'll notice I purposefully never carry around my coffee mug. If it ever feels like I'm asking you to write TPS reports (do busy work), let me know right away. I'm either not sharing enough context or didn't think deeply enough.
 
-TLDR; I see my job as making your daily work easier, happier, and more productive. I am here to remove impediments to you so we can deliver the best experience to our users possible. I joined Audible in 2011 from the financial industry specifically to work on something my friends and family use and love (in addition to millions of other customers) and a good day for me is when I feel tangibly connected to our users. I transfered to Amazon knowing the obsession with our customers would still be there.
+TLDR; I see my job as making your daily work easier, happier, and more productive. I am here to remove impediments to you so we can deliver the best experience to our users possible.
+
+I joined Audible in 2011 from the financial industry specifically to work on something my friends and family use and love (in addition to millions of other customers) and a good day for me is when I feel tangibly connected to our users. I transfered to Amazon knowing the obsession with our customers would still be there.
 
 In short, my job is to make our team successful. 
 
 Specifically this is how
 1. I promise to help you grow your career through the development of skills. These will be a mix of technical and personal skills. We hire exceptionally strong people with a great knowledge of technology and leadership skills, so the bar is high which can sometimes feel difficult to meet. I will push you to always stretch because it's the only way I believe skills can be grown at such a high bar. Everyone needs a mix of both type of skills so you're going to need both. The best principle engineers have great people skills and the best senior managers still know their technology.
-2. I promise to help make our team successful and focused on the right areas. Improving technical excelence and experimentation are areas I love to focus on because they both help ensure we can deliver valuable experiences to our users faster, but there are many others.
+2. I promise to help make our team successful and focused on the right areas. Improving technical excellence and experimentation are areas I love to focus on because they both help ensure we can deliver valuable experiences to our users faster, but there are many others.
 3. I promise to make sure our team gets what we need from other teams, has the right resources, and that we are providing what other teams need from us.
 4. I promise to still write some code even if it's for my personal use on weekends so that I never become a non-technical manager. I love playing with AWS tech to stay up to date, but this isn't the only way.
 
@@ -22,7 +24,7 @@ My job is *NOT* to be _the decider_. I will ocasionaly make a decision on design
 
 ## Feedback
 
-In order for me to do my job succesfully and help you, I need your feedback. This can be direct feedback like if you liked something I did and want to see more of it, or didn't like it. It could also be something you thought I or the team could do better, something I royaly forked up, or that you noticed I rely to heavily on commas in my writing like I'm a Victorian era sailor writing a letter home. Even if you don't think so, I promise I _do_ actually want to hear this feedback. 
+In order for me to do my job succesfully and help you, I need your feedback. This can be direct feedback like if you liked something I did and want to see more of it, or didn't like it. It could also be something you thought I or the team could do better, something I royally forked up, or that you noticed I rely to heavily on commas in my writing like I'm a Victorian era sailor writing a letter home. Even if you don't think so, I promise I _do_ actually want to hear this feedback.
 
 I prefer in-person feedback, but that's not always possible. I like to give and receive feedback as close to the time the behavior occurred as possible. I'm much happier to receive feedback over email or IM instead of in-person if it means getting that feedback earlier. I'll extend the same courtesy to you unless you tell me otherwise.
 
@@ -42,7 +44,7 @@ If you need to reschedule a 1:1 with me because you need to work from home, plea
 
 ## One-on-ones
 
-I will set up periodic one on ones on you calendar. I prefer doing these weekly, but they tend to be once every two weeks because of scheduling. If this is too infrequent, let me know and I’ll adjust it. 
+I will set up periodic one on ones on your calendar. I prefer doing these weekly, but they tend to be once every two weeks because of scheduling. If this is too infrequent, let me know and I’ll adjust it.
 
 One-on-ones are _your meeting_. This is your time to have a meeting where you get to set the agenda. I will probably have questions for you, but this is your chance to let me know how you are doing, what things you need, what you wish were different, how you are feeling about the team, and your career goals and growth. I prefer these to focus on longer-term strategic thinking and career development as we don’t tend to get other time for that. I prefer to get status updates in realtime during standup, Chime, or email. You should always feel free to come by my desk to give updates at any time. 
 
@@ -52,7 +54,7 @@ There are some great posts out there on making one-on-ones effective that you mi
 
 ## Work–life balance
 
-I have strong feelings about work life balance as I left a previous company when I was told I was one of the more productive members of the team but worked fewer hours than others, so couldn’t receive a positive annual review. Work-life balance can mean a lot of things, so lets figure out exactly what it means to you together. If you need to come in late because you’re zombie, leave early to pick up kids from daycare, make special arrangements for certain days because of religion, take time for your health, or anything else, just let me know. I expect you to be truthful and honest about your needs and as long as you earn that trust I am very flexible.
+I have strong feelings about work life balance.  I left a previous company when I was told I was one of the more productive members of the team but worked fewer hours than others, so couldn’t receive a positive annual review. Work-life balance can mean a lot of things, so lets figure out exactly what it means to you together. If you need to come in late because you’re zombie, leave early to pick up kids from daycare, make special arrangements for certain days because of religion, take time for your health, or anything else, just let me know. I expect you to be truthful and honest about your needs and as long as you earn that trust I am very flexible.
 
 I don’t want anyone to burn out or be frustrated by long hours or working at the expense of family, health, beliefs, or otherwise. There are plenty of other things to worry about.
 
